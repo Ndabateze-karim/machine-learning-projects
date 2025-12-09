@@ -101,6 +101,16 @@ It showcases:
 `housing_regression.ipynb`
 
 ---
+### 🛠 Skills Demonstrated
+- Regression modeling and evaluation  
+- Feature scaling and preprocessing  
+- Linear vs. non-linear model comparison  
+- Interpretation of MSE and R² metrics  
+- Feature importance analysis using Random Forest  
+- Handling continuous target variables  
+- Building end-to-end supervised regression workflows  
+
+---
 
 ## 📁 Folder Structure
 ```
