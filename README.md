@@ -66,6 +66,41 @@ More ML projects will be added soon.
 - Visualization with Matplotlib & Seaborn  
 
 ---
+---
+
+## 📘 Example Project: Housing Price Regression
+
+This notebook presents a supervised regression workflow using the California Housing dataset.  
+The goal is to predict housing prices based on socioeconomic and geographic features.
+
+### 🔹 Steps Covered
+- Load dataset (California Housing)
+- Train-test split
+- Feature scaling using StandardScaler
+- Train two regression models:
+  - Linear Regression (baseline model)
+  - Random Forest Regressor (non-linear model)
+- Evaluate models using:
+  - Mean Squared Error (MSE)
+  - R² Score
+- Compare performance across models
+- Visualize feature importance using Random Forest
+
+### 🔹 Why this project?
+
+This dataset is widely used for demonstrating regression techniques in real-world scenarios.  
+It showcases:
+
+- How continuous numerical targets are modeled
+- The difference between linear and non-linear regression approaches
+- Proper use of regression evaluation metrics (MSE, R²)
+- Interpretation of feature importance in predicting housing values
+- A complete and professional regression workflow
+
+### 🔹 File  
+`housing_regression.ipynb`
+
+---
 
 ## 📁 Folder Structure
 ```
