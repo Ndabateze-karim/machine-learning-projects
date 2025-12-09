@@ -41,11 +41,14 @@ This notebook demonstrates a simple and fully explainable Machine Learning workf
 - Show classification report
 
 ### 🔹 Why this project?
-The Iris dataset is clean, widely used, and perfect for showing:
-- ML fundamentals  
+The Iris dataset is widely used in machin learning education and research.
+it is clean , balanced , and ideal for demonstrating:
+
+- Core ML fundamentals
+- Classification workflows 
 - Evaluation metrics  
-- Model comparison  
-- A complete pipeline that is easy to explain in interviews  
+- Model comparison techniques 
+- A complete end-to-end pipeline (preprocessing -training- evaluation) 
 
 ### 🔹 File
 `iris_classification.ipynb`
